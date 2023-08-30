@@ -20,3 +20,7 @@ $ terraform destroy
 ```console
 $ aws secretsmanager delete-secret --secret-id test_app --force-delete-without-recovery
 ```
+
+# 解答例 etc.
+
+https://zenn.dev/neinc_tech/articles/4193d9953c6401
